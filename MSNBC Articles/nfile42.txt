@@ -1,0 +1,35 @@
+Supreme Court hears gerrymandering case that may change our politics
+There are quite a few factors that help explain the Republicans’ current electoral dominance over the levers of federal power. The GOP benefits, for example, from the prevalence of Democratic voters clustering together in urban areas. In many states, voter-suppression techniques further give the conservative party a hand.
+
+And then, of course, there’s gerrymandering. After the 2010 midterms, Republican advantages in state legislatures led policymakers to draw ridiculous congressional districts in a variety of states, creating undemocratic conditions: Democrats could earn a majority of the votes, while Republicans received a majority of the power.
+
+Gerrymandering alone does not explain the GOP’s congressional majority, but it’s an important  piece of the puzzle. But is it legal? Slate’s Mark Joseph Stern took a closer look at Gill v. Whitford, one of the year’s most important Supreme Court cases, which justices considered yesterday.
+
+Partisan gerrymandering distorts democracy in a particularly pernicious way: When legislators draw maps that strongly favor their party, they create a majority that is both entrenched and endurable. Gill is a challenge to Wisconsin’s map, and the state provides an excellent example of this phenomenon. While drawing maps in 2010, Wisconsin Republicans engaged in “packing and cracking” – sticking most Democrats in a few safe Democratic districts and distributing the rest through safe Republican districts.
+
+This gerrymander has given Republican legislators a massive unearned advantage. In 2012, Republicans won 48.6 percent of the statewide vote – and 60 out of 99 seats in the Wisconsin state assembly. In 2014, they received 52 percent of the vote and won 63 seats. In 2016, they received the same percentage of the statewide vote, and their majority crept up to 64 seats.
+
+Under this map, Democrats have no real hope of regaining a legislative majority in Wisconsin. A huge number of state elections aren’t even contested anymore; everybody knows the outcome in advance.
+
+It’s already illegal to draw gerrymandered districts along racial lines, but there’s ambiguity about districts drawn along excessively partisan lines. The high court is poised to resolve those questions.
+
+So, how’d oral arguments go?
+
+
+All eyes were on Justice Anthony Kennedy, who wrote over a decade ago that he suspects excessive partisan gerrymandering may be unconstitutional under the First Amendment. And while it’s generally unwise to make predictions based solely on oral arguments, the consensus among most observers was that Kennedy seemed quite skeptical of the scheme Wisconsin Republicans created for themselves.
+
+He’s unlikely to find allies on the court’s far-right flank, however. The Washington Post’s Dana Milbank found, for example, that Justice Samuel Alito resorted to misquoting a scholar while questioning Paul Smith, the lawyer arguing against the Wisconsin plan.
+
+“You paint a very dire picture about gerrymandering and its effects,” Alito said, “but I was struck by something in the seminal article by your expert, Mr.?McGhee, and he says there, ‘I show that the effects of party control on bias are small and decay rapidly, suggesting that redistricting is at best a blunt tool for promoting partisan interests.’ So he was wrong in that?”
+
+The question baffled Smith, who said he would need to see the context.
+
+“Well,” Alito retorted, “that’s what he said.”
+
+No, it isn’t. I called Eric McGhee, the expert, after the argument. The quote Alito pulled was not from the “seminal article” McGhee co-wrote proposing the legal standard for gerrymandering at the center of the case. It was from an earlier McGhee paper, using data from the 1970s through 1990s. In the paper at the center of the case, by contrast, “we used updated data from the 2000s,” McGhee told me, “and the story is very different. It’s gotten a lot worse in the last two cycles. .?.?. The data are clear.”
+
+Why would Alito resort to this sleight of hand? Perhaps because it’s clear that if he stuck to the facts, he’d have to acknowledge that the growing abuse of gerrymandering threatens democracy.
+
+And clearly, Alito does not want to do anything of the sort.
+
+If, however, there are five justices prepared to be more responsible, there’s a real potential to change American politics for the better. There are a range of possibilities – much will depend on the scope of the ruling – but the more the court can do to protect our democratic process, the better it will be for our entire system of government.

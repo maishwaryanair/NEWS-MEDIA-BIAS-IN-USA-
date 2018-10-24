@@ -1,0 +1,55 @@
+How the FCC's move on net neutrality could impact consumers
+FCC chair talks plan to dismantle Obama net neutrality rules
+Ajit Pai addresses criticism of his proposal and explains what it means for you on 'Fox & Friends.'
+
+The Federal Communications Commission took a step toward dismantling the Obama-era net neutrality regulations Tuesday.
+
+The current rules impose utility-style regulations on Internet service providers (ISPs) that prevent them from favoring their own services or certain customers over that of competitors.
+But Ajit Pai, the Trump-appointed Federal Communications Commission chairman, said Tuesday that he plans to “repeal the heavy-handed Internet regulations” and “return to the light-touch framework under which the Internet developed and thrived before 2015.”
+
+ 
+Ajit Pai
+?
+@AjitPaiFCC
+Today, I’m proposing to repeal the heavy-handed Internet regulations imposed by the Obama Administration and to return to the light-touch framework under which the Internet developed and thrived before 2015. In @WSJopinion: https://www.wsj.com/articles/how-the-fcc-can-save-the-open-internet-1511281099 …
+8:28 AM - Nov 21, 2017
+.@AjitPaiFCC explains his plan to save the open internet
+How the FCC Can Save the Open Internet
+We should undo the Obama administration’s rules that regulate the web like a 1930s utility.
+wsj.com
+ 20,440 20,440 Replies   2,724 2,724 Retweets   4,882 4,882 likes
+23.2K people are talking about this
+Twitter Ads info and privacy
+The move sparked renewed debate between those who applaud President Donald Trump’s efforts to scale back on regulations as well as consumer groups and Internet companies. Here’s a look at what net neutrality is and how Pai’s plans could impact consumers nationwide.
+
+So what even is net neutrality?
+Net neutrality is the idea that ISPs must treat all legal Internet data the same — regardless of where it comes from or who it is going to.
+
+A vote by the Federal Communications Commission on December 14, 2017 will decide the fate of net neutrality. But what is it?Video
+What is net neutrality?
+
+Harold Feld, senior vice president with the Washington, D.C.-based nonprofit Public Knowledge, compared net neutrality to “an on-ramp to the Internet,” meaning ISPs are “not allowed to interfere with what the subscriber wants to do or where the subscriber wants to go.”
+
+Under net neutrality regulations, ISPs are not allowed to block or throttle — meaning slow down — websites or applications.
+
+What does the FCC’s chairman plan to do?
+Pai’s plan to repeal net neutrality regulations will be put to a vote by the FCC commissioners on Dec. 14.
+
+Pai, 44, said that he believes the net neutrality rules adopted during the Obama administration discourage the ISPs from making investments in their network that would provide even better and faster online access.
+
+"Under my proposal, the federal government will stop micromanaging the internet," Pai said in a statement.
+
+How could this impact consumers?
+Repealing net neutrality regulations means consumers could start paying more for their Internet services, criticis said. Consumers could also see ISPs start to “bundle” services — such as certain websites or applications — and charge more depending on what a person wants access to, experts said.
+
+“Right now, the FCC has designated [the Internet] as a telecommunications service — like a phone service which includes all of the rules that apply to prevent [a company] from blocking or throttling or favoring one company over another,” Feld told Fox News. “The real question, to some degree, is: is the Internet going to work like the old telephone where you get to decide who you called and what you do or is it going to become more like cable?”
+
+“If it’s one thing that cable companies have proven to be good at over the years, it’s more ways to get money out of consumers and into their own pockets,” he continued. “Primary broadband providers will take advantage of this to find new ways to charge customers if they want to get high quality service.”
+
+"The truth is we won’t know until providers start experimenting: Presumably they’ll try some things consumers don’t like, and others that prove popular."
+- Julian Sanchez, Cato Institute
+Julian Sanchez, a senior fellow at the libertarian think tank Cato Institute, said broadband providers would “presumably … try some things consumers don’t like and others that prove to be popular.” But he dismissed the notion of predicting just what exactly providers would do should the regulations be scaled back.  
+
+“There’s plenty of scaremongering around steps broadband providers could take in the absence of neutrality regulation — blocking off certain sites, or charging extra fees to access certain services — but not a ton of reason to think they would do these things, which would antagonize customers, be technically tricky to enforce against sophisticated users, and invite the re-imposition of regulations,” Sanchez told Fox News.
+
+“What’s more realistic is the introduction of plans that provide higher speeds for specific bandwidth-intensive services,” he said, pointing to streaming high-definition Netflix videos as an example of such a service. “Or, similarly, content providers might end up subsidizing higher-speed access to their services for subscribers who’ve only paid for slower all-purpose Internet access.”

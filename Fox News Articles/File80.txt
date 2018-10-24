@@ -1,0 +1,55 @@
+Supreme Court to debate digital privacy case over cell phone records
+Supreme Court to rule on searches of cell phone locations
+High court to consider whether the history of cell phone locations stored by a phone service provider is searchable without a warrant; analysis from former federal prosecutor Fred Tecce and Richard St. Paul, former prosecutor and criminal defense attorney.
+
+Fighting crime in the digital age will be the focus of an important Supreme Court case to be argued Wednesday, testing the privacy rights of individuals against the high-tech tools used by law enforcement.
+
+At issue is whether the government needs a warrant to access a person's cell phone location history. It will be the latest foray by the justices into cyber advances, which often move much faster than current law.
+
+The stakes are enormous, since any precedent could be applied more broadly, including to Internet, bank, credit card, and telephone records.
+
+"What the Supreme Court is going to have to wrestle with is, how far is it going to extend these historic Fourth Amendment protections for individual privacy in the digital age, where we're conveying all sorts of information?" said Thomas Dupree, a leading appellate attorney who worked in the Bush Justice Department. "Law enforcement has, if it wants to get it, information not just about your communications, but about your physical whereabouts."
+
+"Law enforcement has, if it wants to get it, information not just about your communications, but about your physical whereabouts."
+- Thomas Dupree, former Justice Department attorney
+Civil rights and privacy advocates argue current rules open the doors to government abuse of a citizen's everyday activities in public and private spaces.
+
+But the Justice Department, supported by a number of states, say if consumers knowingly give their data to third parties-- including cellphone providers-- their privacy rights are diminished. That would permit police to request the transmission data without a warrant.
+
+Separately, police surveillance tracking of real-time movements involving a criminal suspect would require a judge's authorization.
+
+Timothy Carpenter was arrested for being part of a store robbery gang in Michigan and Ohio. He and a co-conspirator were convicted in part after police obtained archived cell phone records showing him near the scene of the crimes. Nearly 13,000 so-called "location points" from six months of Carpenter's movements were obtained without warrant.
+
+His 116-year prison term was upheld by a federal appeals court. He wants the digital evidence dismissed, and his conviction overturned.
+
+The government argues that under a 1986 congressional law known as the Stored Communications Act, it does not need "probable cause" to obtain customer records, that would require a warrant signed by a judge.
+
+"A person has no Fourth Amendment interest in records created by a communications-service provider in the ordinary course of business that pertain to the individual's transactions with the service provider," said the Justice Department in its brief with the high court. "Merely because facts about a person can be deduced from records or other information in the possession of third parties does not make the acquisition of that information Fourth Amendment search of the person."
+
+Lawyers for Carpenter warn the high court not to go down a constitutional path of reduced privacy rights.
+
+"Because cell phone location records can reveal countless private details of our lives, police should only be able to access them by getting a warrant based on probable cause," said Nathan Freed Wessler, a staff attorney with the ACLU. "The time has come for the Supreme Court to make clear that the long-standing protections of the Fourth Amendment apply with undiminished force to these kinds of sensitive digital records."
+
+The high court has been grappling with the so-called "third party" doctrine since 1976, when it ruled bank records obtained without a warrant could be used to prosecute a Georgia moonshiner. The justices extended it three years later to include phone numbers used by a robbery suspect, though not the actual conversations themselves.
+
+But in 2012, the Supreme Court unanimously said police could not attach a GPS device on the car of a suspected drug dealer to track his movements.
+
+"The government physically occupied private property for the purpose of obtaining information," said Justice Antonin Scalia. "We have no doubt that such a physical intrusion would have been considered a 'search' within the meaning of the Fourth Amendment when it was adopted."
+
+Justice Sonia Sotomayor added the third-party doctrine was "ill-suited to the digital age, in which people reveal a great deal of information about themselves to third parties in the course of carrying out mundane tasks."
+
+But while agreeing the search was improper, four justices in that case said the controlling opinion did not address larger legal concerns of searches in the cyber realm. Justice Samuel Alito said the court should have used that GPS case to clarify the limits of modern "reasonable expectations" of privacy, including police monitoring of wireless personal communication devices like mobile phones and Internet use.
+
+In 2014, the high court separately and unanimously ruled police need a warrant to search a cellphone that is seized during an arrest.
+
+But unlike those cases, in the Carpenter appeal there is no "physical intrusion" of the device, raising questions whether one's privacy is in fact being violated.
+
+Advocates on both sides of the issue hope the justices are now prepared to clarify guidelines on access to digital records.
+
+Whether the nine justices-- with an average age of 68-- will grasp the nuances of the technology has been the source of recent speculation-- and amusement.
+
+"I don't think any of us have a Facebook page or a Tweet, whatever that is," Chief Justice John Roberts said a few years ago.
+
+Justice Stephen Breyer has since signed onto Facebook and Twitter-- which he called "the tweeting thing"-- but said he uses it mostly to communicate with his family, and turns down nearly all follower requests.
+
+The current case is Carpenter v. U.S.  A ruling is expected in coming months.
