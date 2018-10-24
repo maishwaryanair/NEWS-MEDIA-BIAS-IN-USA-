@@ -1,2 +1,3 @@
 # NEWS-MEDIA-BIAS-IN-USA-
 This is an independent project to see if there is bias in the news media using NLP techniques.
+The news media in America has always had been criticized as being biased towards the news they report to the world. News media bias is mainly classified as conservative bias and liberal bias here in the US where the news media like MSNBC, CNN, Fox News, NBC, etc., all fall into a spectrum developed depending on many sources, factors and reasons.But all said, there is no definitive proof to prove that there is bias in the news media in America. To test this concept of bias, a neural network model for classification of conservative and liberal bias is built from scratch and each step is clearly documented in this report.
